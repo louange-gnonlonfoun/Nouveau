@@ -1,0 +1,10 @@
+a) la commande git fetch, met à jour toutes les références distantes sur un
+ dépôt local sans modifier les références locales la commande git pull fait la même chose que la commande git fetch,
+ mais en plus, elle vas mergé la branche courante avec sa référence distante.
+
+b) on utilise la commande git reset
+
+c) la commande git push --delete permet de le faire
+
+
+d) la commande git log permet de voir les modifications 
